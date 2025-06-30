@@ -23,36 +23,29 @@ This is a full-stack **E-Learning web application** where users can search, expl
 ---
 
 ### 🎓 Course Listings
-![Course Listing](./assets/Screenshot%202025-06-30%20215442.png)
+![Course Listing](https://github.com/Pradeepkumardev2003/E_Learning_App/blob/main/Assets/CourseList.png)
 
 ---
 
 ### 💳 Payment Page
-![Payment](./assets/WhatsApp%20Image%202025-02-21%20at%2007.56.07_a88153a7.jpg)
+![Payment](https://github.com/Pradeepkumardev2003/E_Learning_App/blob/main/Assets/Payment.jpg)
 
 ---
 
 ### 🔎 Search Results for Courses
-![Search Results](./assets/WhatsApp%20Image%202025-02-21%20at%2007.56.08_d6946ba1.jpg)
+![Search Results](https://github.com/Pradeepkumardev2003/E_Learning_App/blob/main/Assets/PurchasedCourse.jpg)
 
 ---
 
 ### 👤 Profile Page
-![Profile](./assets/WhatsApp%20Image%202025-02-21%20at%2008.05.38_2b2ab5fd.jpg)
+![Profile](https://github.com/Pradeepkumardev2003/E_Learning_App/blob/main/Assets/Profile.jpg)
 
 ---
 
 ### 🔐 Login Page
-![Login](./assets/WhatsApp%20Image%202025-02-21%20at%2008.05.39_832d8670.jpg)
+![Login](https://github.com/Pradeepkumardev2003/E_Learning_App/blob/main/Assets/Login.jpg)
 
----
 
-## 📂 Folder Setup
-
-1. Place all image files in a folder named `assets` in the root of your repository.
-2. Update the markdown image paths accordingly (as shown above).
-
----
 
 ## 🛠️ Tech Stack
 
