@@ -18,7 +18,7 @@ This is a full-stack **E-Learning web application** where users can search, expl
 ## 📸 Screenshots
 
 ### 🏠 Home Page (Search & Explore)
-![Home Page](./assets/Screenshot%202025-06-30%20215357.png)
+![Home Page](https://github.com/Pradeepkumardev2003/E_Learning_App/blob/main/Assets/HomePage.png)
 
 ---
 
